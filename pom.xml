@@ -6,7 +6,7 @@
     <artifactId>tablesaw-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>Tablesaw</name>
-    <description>High-performance Java Dataframe </description>
+    <description>High-performance Java Dataframe</description>
     <url>https://github.com/jtablesaw/tablesaw</url>
     <scm>
         <connection>scm:git:git@github.com:jtablesaw/tablesaw.git</connection>
